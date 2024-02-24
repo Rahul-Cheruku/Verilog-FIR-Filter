@@ -46,6 +46,9 @@ FILTER COEFFICIENTS:
 
 ## Block Design:
 
+![image](https://github.com/Rahul-Cheruku/Verilog-FIR-Filter/assets/77064752/f7ea1cbe-8b07-47d9-b1b2-47a9fd3eaf13)
+
+
 ![image](https://github.com/Rahul-Cheruku/Verilog-FIR-Filter/assets/77064752/509a06d2-b913-4107-9367-a7ba8698b283)
 
 ## Filtered (Bottom) Output 
