@@ -39,11 +39,15 @@ FILTER COEFFICIENTS:
 0.0260440884281871
 0.00738725709614209
 
+## Custom MAC:
+
+![image](https://github.com/Rahul-Cheruku/Verilog-FIR-Filter/assets/77064752/fad02950-2351-4913-8f94-520753843096)
+
 
 ## Block Design:
 
 ![image](https://github.com/Rahul-Cheruku/Verilog-FIR-Filter/assets/77064752/509a06d2-b913-4107-9367-a7ba8698b283)
 
-
+## Filtered (Bottom) Output 
 ![image](https://github.com/Rahul-Cheruku/Verilog-FIR-Filter/assets/77064752/c3a49613-3f17-4d5a-bc9a-0b1c62830af6)
 
